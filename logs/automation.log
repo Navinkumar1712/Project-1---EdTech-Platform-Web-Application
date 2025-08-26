@@ -1,0 +1,58 @@
+08/25/2025 07:28:45 PM: INFO: ****** Test Case-1 : TestValidURL Started *****
+08/25/2025 07:28:45 PM: INFO: ****** Verifying the validity of URL by checking the presence of Guvi Logo element *****
+08/25/2025 07:28:46 PM: INFO: ****** URL loaded successfully *****
+08/25/2025 07:28:46 PM: INFO: ****** Test Case-1 : TestValidURL Completed *****
+08/25/2025 07:28:50 PM: INFO: ****** Test Case-2 : Title Validation Started *****
+08/25/2025 07:28:50 PM: INFO: ****** Verifying the Homepage Title *****
+08/25/2025 07:28:50 PM: INFO: ****** Title displayed as expected *****
+08/25/2025 07:28:50 PM: INFO: ****** Test Case-2 : Title Validation Completed *****
+08/25/2025 07:28:56 PM: INFO: ****** Test Case-3 : Test Visibility of Login Button Started *****
+08/25/2025 07:28:56 PM: INFO: ****** Login Button Visible and Clickable *****
+08/25/2025 07:29:22 PM: INFO: ****** Successfully landed on Login Page upon clicking Login Button
+08/25/2025 07:29:22 PM: INFO: ****** Login Page Title displayed *****
+08/25/2025 07:29:22 PM: INFO: ****** Test Case-3 : Test Visibility of Login Button Completed *****
+08/25/2025 07:29:27 PM: INFO: ****** Test Case-4 : Test Visibility of Sign up Button Started *****
+08/25/2025 07:29:27 PM: INFO: ****** Sign up Button Visible and Clickable *****
+08/25/2025 07:29:53 PM: INFO: ****** On Clicking Sign up Button, it navigates to Register Page *****
+08/25/2025 07:29:53 PM: INFO: ****** Test Case-4 : Test Visibility of Sign up Button Completed *****
+08/25/2025 07:29:58 PM: INFO: ****** Test Case-5 : Verifying the navigation to the Sign-In page via the Sign-Up button Started *****
+08/25/2025 07:30:25 PM: INFO: ****** Login from Register Page verified *****
+08/25/2025 07:30:25 PM: INFO: ****** Test Case-5 : Verifying the navigation to the Sign-In page via the Sign-Up button Completed *****
+08/25/2025 07:30:30 PM: INFO: ****** Test case - 6 : Login Functionality test Started *****
+08/25/2025 07:30:30 PM: INFO: ****** Verifying Login with Valid credentials *****
+08/25/2025 07:30:58 PM: INFO: ****** Login Successful *****
+08/25/2025 07:30:58 PM: INFO: ****** Test case - 6 : Login Functionality test Completed *****
+08/25/2025 07:31:03 PM: INFO: ****** Test case - 7 : Invalid Login Functionality test Started *****
+08/25/2025 07:31:03 PM: INFO: ****** Verifying Login with Invalid credentials *****
+08/25/2025 07:31:30 PM: INFO: ****** Error message displayed as expected *****
+08/25/2025 07:31:30 PM: INFO: ****** Test case - 7 : Invalid Login Functionality test Completed *****
+08/25/2025 07:31:30 PM: INFO: ****** TestLogin Completed *****
+08/25/2025 07:31:35 PM: INFO: ****** Test Case-8 - Validation of Menu Items Started *****
+08/25/2025 07:31:35 PM: INFO: ****** Validation of Courses Menu *****
+08/25/2025 07:31:38 PM: INFO: ****** Courses visible on menu bar *****
+08/25/2025 07:31:38 PM: INFO: ****** Clicking on Courses *****
+08/25/2025 07:31:44 PM: INFO: ****** Validation of LIVE Classes Menu *****
+08/25/2025 07:31:44 PM: INFO: ****** LIVE Classes visible on menu bar *****
+08/25/2025 07:31:44 PM: INFO: ****** Clicking on LIVE Classes *****
+08/25/2025 07:31:49 PM: INFO: ****** Validation of Practice Menu *****
+08/25/2025 07:31:49 PM: INFO: ****** Practice visible on menu bar *****
+08/25/2025 07:31:49 PM: INFO: ****** Clicking on Practice *****
+08/25/2025 07:31:54 PM: INFO: ****** Validation of Resources Menu  *****
+08/25/2025 07:31:54 PM: INFO: ****** Resources visible on menu bar *****
+08/25/2025 07:31:54 PM: INFO: ****** Clicking on Resources *****
+08/25/2025 07:31:59 PM: INFO: ****** Validation of Products Menu  *****
+08/25/2025 07:31:59 PM: INFO: ****** Products visible on menu bar *****
+08/25/2025 07:31:59 PM: INFO: ****** Clicking on Products *****
+08/25/2025 07:31:59 PM: INFO: ****** Test Case-8 - Validation of Menu Items Completed *****
+08/25/2025 07:32:04 PM: INFO: ****** Test Case-9 - Validation of Dobby Guvi Assistant Started *****
+08/25/2025 07:32:04 PM: INFO: ****** Verifying the Presence of Dobby Guvi Assistant in Login Page *****
+08/25/2025 07:32:25 PM: INFO: ****** Test Case - 10 : Logout Functionality Test Started *****
+08/25/2025 07:32:53 PM: INFO: ****** Login Successful *****
+08/25/2025 07:32:54 PM: INFO: ****** Logout Successful *****
+08/25/2025 07:32:54 PM: INFO: ****** Test Case - 10 : Logout Functionality Test Completed *****
+08/25/2025 07:32:59 PM: INFO: ****** Verifying Login - Data Driven Login Started *****
+08/25/2025 07:33:28 PM: INFO: Test data is Passed
+08/25/2025 07:33:30 PM: INFO: Test data is Passed
+08/25/2025 07:33:33 PM: INFO: Test data is Passed
+08/25/2025 07:33:33 PM: INFO: Login check with Data Driven Passed
+08/25/2025 07:33:33 PM: INFO: ****** Verifying Login - Data Driven Login Completed *****
